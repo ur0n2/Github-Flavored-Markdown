@@ -9,7 +9,7 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 ## Markdown Syntax Reference
 - [마크다운, 위키피디아(KOR)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
 - [마크다운, 위키피디아(ENG)](https://en.wikipedia.org/wiki/Markdown)
-- [Writing on GitHub, Github Official Help](https://help.github.com/categories/writing-on-github/):thumbsup::thumbsup::thumbsup:
+- [Writing on GitHub, Github Help](https://help.github.com/categories/writing-on-github/):thumbsup::thumbsup::thumbsup::octocat:
 - [Awesome Markdown, Github](https://github.com/BubuAnabelas/awesome-markdown):thumbsup::thumbsup:
 - [Markdown Guide, Github](https://guides.github.com/features/mastering-markdown/):thumbsup::thumbsup::thumbsup:
 - [Awesome-markdown, Github](https://github.com/mundimark/awesome-markdown)
@@ -18,7 +18,7 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 - [hackmd](https://hackmd.io/features):thumbsup:
 - [Awesome Markdown, markdownlinks](https://markdownlinks.com/)
 - [Markdown Cheat Sheet, warpedvisions](https://warpedvisions.org/projects/markdown-cheat-sheet/):thumbsup::thumbsup:
-- [Markdown Tutorial](http://www.markdowntutorial.com/):thumbsup:
+- [Markdown Tutorial](http://www.markdowntutorial.com/):thumbsup::octocat:
 
 
 ### Emoji Collection
@@ -28,9 +28,20 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 
 ## Online Markdown Editor
 - [jbt-markdown-editor](https://jbt.github.io/markdown-editor):thumbsup::thumbsup::thumbsup::thumbsup:
-
 - [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
 ![github_md_editor](https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/Edit_And_Preview.png)
+- [markdown-it.github.io](https://markdown-it.github.io/)
+- [dillinger.io](http://dillinger.io/):thumbsup:
+- [markdown.pioul.fr](http://markdown.pioul.fr/)
+- [stackedit.io](https://stackedit.io/editor):thumbsup::thumbsup:
+- [writekit.github.io](http://writekit.github.io/markdown.note/note.html#)
+- [markdown-here](http://markdown-here.com/)
+- [marxi.co](https://marxi.co/):thumbsup::thumbsup::thumbsup:
+- [joncom.be](http://joncom.be/experiments/markdown-editor/edit/)
+- [jrham.es](http://jrham.es/instantmark/):thumbsup:
+- [fiddlesalad](http://fiddlesalad.com/markdown/)
+- [socrates.io](http://socrates.io/#M0KCYuh)
+- [writeme.mattstow](http://writeme.mattstow.com/)
 
 ----
 ----
@@ -38,5 +49,5 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 ----
 ## Under The Practice
 Emoji
-Related to Github :octocat: 
+Related to Github :octocat: mean is official github 
 Related to Best :thumbsup:
