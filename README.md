@@ -10,8 +10,8 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 </p>
 
 ## Markdown Syntax Reference
-- [마크다운, 위키피디아(KOR)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
-- [마크다운, 위키피디아(ENG)](https://en.wikipedia.org/wiki/Markdown)
+- [마크다운, Wikipedia(KOR)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
+- [Markdown, Wikipedia(ENG)](https://en.wikipedia.org/wiki/Markdown)
 - [Writing on GitHub, Github Help](https://help.github.com/categories/writing-on-github/):thumbsup::thumbsup::thumbsup::octocat:
 - [Awesome Markdown, Github](https://github.com/BubuAnabelas/awesome-markdown):thumbsup::thumbsup:
 - [Markdown Guide, Github](https://guides.github.com/features/mastering-markdown/):thumbsup::thumbsup::thumbsup:
@@ -47,7 +47,7 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 - [writeme.mattstow](http://writeme.mattstow.com/)
 
 
-## Practice to Markdown Syntax
+## Practice To Markdown Syntax
 test
  mean is related to official github 
 
