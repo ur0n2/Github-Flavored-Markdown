@@ -1,18 +1,16 @@
 # Github-Flavored-Markdown
-Github Flavored Markdown Practice And Summarize
+Github Flavored Markdown(md) Practice And Summarize
 
 ## Markdown Grammer Reference
 
 ## Online Markdown Editor
 
+- [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+![github_md_editor](https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/Edit_And_Preview.png)
 
-~~## Best Online markdown Editor for Github Style.~~
-- [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup::thumbsup::thumbsup:
-
 ----
 ----
 ----
 ----
-
 ## Under The Practice
 Emoji
