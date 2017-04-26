@@ -9,7 +9,7 @@ Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octoc
   <img width="460" height="300" src="https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/md_png_640x640.png">
 </p>
 
-## Markdown Syntax Reference
+## Markdown Syntax Reference :books:
 - [마크다운, Wikipedia(:kr:)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
 - [Markdown, Wikipedia(:us:)](https://en.wikipedia.org/wiki/Markdown)
 - [Writing on GitHub, Github Help](https://help.github.com/categories/writing-on-github/):thumbsup::thumbsup::thumbsup::octocat:
@@ -24,12 +24,12 @@ Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octoc
 - [Markdown Tutorial](http://www.markdowntutorial.com/):thumbsup::octocat:
 
 
-## Emoji Collection
+## Emoji Collection :star2:
 - [Github, All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons):octocat:
 - [EMOJI CHEAT SHEET, webpagefx](https://www.webpagefx.com/tools/emoji-cheat-sheet/):thumbsup:
 
 
-## Online Markdown Editor
+## Online Markdown Editor :clipboard:
 - [jbt-markdown-editor](https://jbt.github.io/markdown-editor):thumbsup::thumbsup::thumbsup::thumbsup:
 - [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::octocat:
 ![github_md_editor](https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/Edit_And_Preview.png)
@@ -47,10 +47,10 @@ Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octoc
 - [writeme.mattstow.com](http://writeme.mattstow.com/)
 
 
-## Writer
+## Writer :pencil:
 Gift:gift: by [ur0n2](https://github.com/ur0n2):ghost:
 
-## Practice To Markdown Syntax
+## Practice To Markdown Syntax :notebook_with_decorative_cover:
 test
  mean is related to official github 
 
