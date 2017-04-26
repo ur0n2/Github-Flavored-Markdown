@@ -1,10 +1,8 @@
+# Github-Flavored-Markdown
+Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markdown style.
 <p align="center">
   <img width="460" height="300" src="https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/md_png_640x640.png">
 </p>
-
-# Github-Flavored-Markdown
-Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markdown style.
-
 
 ## Markdown Syntax Reference
 - [마크다운, 위키피디아(KOR)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
@@ -21,7 +19,7 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 - [Markdown Tutorial](http://www.markdowntutorial.com/):thumbsup::octocat:
 
 
-### Emoji Collection
+## Emoji Collection
 - [Github, All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons):octocat:
 - [EMOJI CHEAT SHEET, webpagefx](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
@@ -43,11 +41,9 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 - [socrates.io](http://socrates.io/#M0KCYuh)
 - [writeme.mattstow](http://writeme.mattstow.com/)
 
-----
-----
-----
-----
+
 ## Under The Practice
-Emoji
-Related to Github :octocat: mean is official github 
+test
+:octocat: mean is related to official github 
+
 Related to Best :thumbsup:
