@@ -1,5 +1,5 @@
-# Github-Flavored-Markdown
-Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markdown style.
+# Github-Flavored-Markdown :rocket:
+Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octocat: markdown style.
 
 :octocat: **means** official github site.
 
@@ -10,8 +10,8 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 </p>
 
 ## Markdown Syntax Reference
-- [마크다운, Wikipedia(KOR)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
-- [Markdown, Wikipedia(ENG)](https://en.wikipedia.org/wiki/Markdown)
+- [마크다운, Wikipedia(:kr:)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
+- [Markdown, Wikipedia(:us:)](https://en.wikipedia.org/wiki/Markdown)
 - [Writing on GitHub, Github Help](https://help.github.com/categories/writing-on-github/):thumbsup::thumbsup::thumbsup::octocat:
 - [Awesome Markdown, Github](https://github.com/BubuAnabelas/awesome-markdown):thumbsup::thumbsup:
 - [Markdown Guide, Github](https://guides.github.com/features/mastering-markdown/):thumbsup::thumbsup::thumbsup:
@@ -38,14 +38,17 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 - [markdown.pioul.fr](http://markdown.pioul.fr/)
 - [stackedit.io](https://stackedit.io/editor):thumbsup::thumbsup:
 - [writekit.github.io](http://writekit.github.io/markdown.note/note.html#)
-- [markdown-here](http://markdown-here.com/)
+- [markdown-here.com](http://markdown-here.com/)
 - [marxi.co](https://marxi.co/):thumbsup::thumbsup::thumbsup:
 - [joncom.be](http://joncom.be/experiments/markdown-editor/edit/)
 - [jrham.es](http://jrham.es/instantmark/):thumbsup:
-- [fiddlesalad](http://fiddlesalad.com/markdown/)
+- [fiddlesalad.com](http://fiddlesalad.com/markdown/)
 - [socrates.io](http://socrates.io/#M0KCYuh)
-- [writeme.mattstow](http://writeme.mattstow.com/)
+- [writeme.mattstow.com](http://writeme.mattstow.com/)
 
+
+## Writer
+Gift:gift: by [ur0n2](https://github.com/ur0n2):ghost:
 
 ## Practice To Markdown Syntax
 test
