@@ -1,5 +1,5 @@
 # Github-Flavored-Markdown
-Github Flavored Markdown(md) Practice And Summarize
+Github Flavored Markdown(md) Summarize And Practice
 
 ## Markdown Grammer Reference
 
