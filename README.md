@@ -26,12 +26,12 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 
 ## Emoji Collection
 - [Github, All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons):octocat:
-- [EMOJI CHEAT SHEET, webpagefx](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [EMOJI CHEAT SHEET, webpagefx](https://www.webpagefx.com/tools/emoji-cheat-sheet/):thumbsup:
 
 
 ## Online Markdown Editor
 - [jbt-markdown-editor](https://jbt.github.io/markdown-editor):thumbsup::thumbsup::thumbsup::thumbsup:
-- [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+- [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::octocat:
 ![github_md_editor](https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/Edit_And_Preview.png)
 - [markdown-it.github.io](https://markdown-it.github.io/)
 - [dillinger.io](http://dillinger.io/):thumbsup:
