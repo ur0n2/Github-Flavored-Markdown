@@ -7,7 +7,7 @@ Github Flavored Markdown Practice And Summarize
 
 
 ~~## Best Online markdown Editor for Github Style.~~
-- [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup:
+- [Github Edit and Preview](https://github.com/ur0n2/Github-Flavored-Markdown/edit/master/README.md):thumbsup::thumbsup::thumbsup:
 
 ----
 ----
