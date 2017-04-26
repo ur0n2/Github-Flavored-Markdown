@@ -1,5 +1,10 @@
 # Github-Flavored-Markdown
 Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markdown style.
+
+:octocat: **means** official github site.
+
+:thumbsup: **means** that is the DDABONG.
+
 <p align="center">
   <img width="460" height="300" src="https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/md_png_640x640.png">
 </p>
@@ -44,6 +49,6 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 
 ## Practice to Markdown Syntax
 test
-:octocat: mean is related to official github 
+ mean is related to official github 
 
-Related to Best :thumbsup:
+Related to Best 
