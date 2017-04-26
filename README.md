@@ -42,7 +42,7 @@ Github Flavored Markdown(\*.md) Summarize And Practice. Oriented to Github markd
 - [writeme.mattstow](http://writeme.mattstow.com/)
 
 
-## Under The Practice
+## Practice to Markdown Syntax
 test
 :octocat: mean is related to official github 
 
