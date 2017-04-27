@@ -9,7 +9,7 @@ Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octoc
   <img width="460" height="300" src="https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/md_png_640x640.png">
 </p>
 
-## Markdown Syntax Reference
+## Github Flaored Markdown Syntax Reference
 - [마크다운, Wikipedia(:kr:)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
 - [Markdown, Wikipedia(:us:)](https://en.wikipedia.org/wiki/Markdown)
 - [마크다운#Github-Flavored-markdown, Namuwiki](https://namu.wiki/w/마크다운):thumbsup::thumbsup:
@@ -53,7 +53,7 @@ Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octoc
 ## Writer 
 :gift: by [ur0n2](https://github.com/ur0n2):ghost:
 
-## Practice To Markdown Syntax
+## Practice To GFM
 test
  mean is related to official github 
 
