@@ -12,6 +12,7 @@ Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octoc
 ## Markdown Syntax Reference
 - [마크다운, Wikipedia(:kr:)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4):thumbsup:
 - [Markdown, Wikipedia(:us:)](https://en.wikipedia.org/wiki/Markdown)
+- [마크다운#Github-Flavored-markdown, Namuwiki](https://namu.wiki/w/마크다운):thumbsup::thumbsup:
 - [GitHub Flavored Markdown Spec, Github/gfm](https://github.github.com/gfm/):thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::octocat:
 - [GFM Korean Guide, demun](https://github.com/demun/blog/tree/master/Github):thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
 - [Writing on GitHub, Github Help](https://help.github.com/categories/writing-on-github/):thumbsup::thumbsup::thumbsup::octocat:
