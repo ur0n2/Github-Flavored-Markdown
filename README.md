@@ -6,7 +6,7 @@ Github Flavored Markdown(\*.md) Summarize and Practice. Oriented to Github:octoc
 :thumbsup: **means** that is the DDABONG.
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/md_png_640x640.png">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/ur0n2/Github-Flavored-Markdown/master/md_mark.png">
 </p>
 
 ## Github Flaored Markdown Syntax Reference
